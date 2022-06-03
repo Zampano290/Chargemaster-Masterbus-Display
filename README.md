@@ -1,6 +1,6 @@
 # Chargemaster-Masterbus-Display
 
-Der Matervolt Chargemaster verfügt über eine Masterbus Schnittstelle, die an ein Maservolt Easy5 oder RemoteDisplay verbunden werden kann.
+Der Mastervolt Chargemaster (z.B. 12/35, 12/50) verfügt über eine Masterbus Schnittstelle, die an ein Maservolt Easy5 oder RemoteDisplay verbunden werden kann.
 Das RemoteDisplay unterstützt zur Zeit noch nicht den Chargemaster.
 Über das Easy5 werden aber auch Kaum brauchbare Daten angezeigt.
 
